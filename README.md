@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmaruf001-mt.github.io%2FPremium-Delivery%2Fweb.gif&tbnid=H6uhk2ZLsIxp_M&vet=12ahUKEwihu5_XupmGAxXRUWwGHWgGB_kQxiAoAHoECAAQHw..i&imgrefurl=https%3A%2F%2Fgithub.com%2FMaruf001-MT%2FMaruf001-MT&docid=4dlmOCr3zb9hqM&w=1600&h=480&itg=1&q=banner%20%20programmerr%20gif%20images&ved=2ahUKEwihu5_XupmGAxXRUWwGHWgGB_kQxiAoAHoECAAQHw)
+
 <h1 align="center">Hi 👋, I'm Shovam Mahato</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20images%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjm9JrPvZmGAxWRp1YBHfOPDvYQM3oECGIQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjm9JrPvZmGAxWRp1YBHfOPDvYQM3oECGIQAA">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovammahato12&label=Profile%20views&color=0e75b6&style=flat" alt="shovammahato12" /> </p>
 
