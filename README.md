@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovammahato12&label=Profile%20views&color=0e75b6&style=flat" alt="shovammahato12" /> </p>
 
-- 🌱 I’m currently learning **React Naive**
+- 🌱 I’m currently learning **React , Js**
 
-- 💬 Ask me about **WEB , MEARN**
+- 💬 Ask me about **WEB , MERN**
 
 - 📫 How to reach me **msubham150@gmail.com**
 
